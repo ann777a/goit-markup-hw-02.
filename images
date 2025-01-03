@@ -1,0 +1,12 @@
+<script>start("/Users/anndenisyuk/studio/images/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("img-10.jpg","img-10.jpg",0,111293,"109 kB",1735938549,"03.01.25, 23:09:09");</script>
+<script>addRow("img-2.jpg","img-2.jpg",0,57606,"56.3 kB",1735830525,"02.01.25, 17:08:45");</script>
+<script>addRow("img-3.jpg","img-3.jpg",0,78254,"76.4 kB",1735830530,"02.01.25, 17:08:50");</script>
+<script>addRow("img-4.jpg","img-4.jpg",0,52937,"51.7 kB",1735830534,"02.01.25, 17:08:54");</script>
+<script>addRow("img-5.jpg","img-5.jpg",0,114532,"112 kB",1735938525,"03.01.25, 23:08:45");</script>
+<script>addRow("img-6.jpg","img-6.jpg",0,67812,"66.2 kB",1735938531,"03.01.25, 23:08:51");</script>
+<script>addRow("img-7.jpg","img-7.jpg",0,114413,"112 kB",1735938537,"03.01.25, 23:08:57");</script>
+<script>addRow("img-8.jpg","img-8.jpg",0,174329,"170 kB",1735938541,"03.01.25, 23:09:01");</script>
+<script>addRow("img-9.jpg","img-9.jpg",0,84906,"82.9 kB",1735938545,"03.01.25, 23:09:05");</script>
+<script>addRow("img.jpg","img.jpg",0,52931,"51.7 kB",1735830520,"02.01.25, 17:08:40");</script>
